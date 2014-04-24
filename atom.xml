@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[dinnery]]></title>
+  <link href="http://723968978.github.io/atom.xml" rel="self"/>
+  <link href="http://723968978.github.io/"/>
+  <updated>2014-04-23T21:06:52-07:00</updated>
+  <id>http://723968978.github.io/</id>
+  <author>
+    <name><![CDATA[bob]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First Work]]></title>
+    <link href="http://723968978.github.io/blog/2014/04/23/first-work/"/>
+    <updated>2014-04-23T21:06:31-07:00</updated>
+    <id>http://723968978.github.io/blog/2014/04/23/first-work</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
